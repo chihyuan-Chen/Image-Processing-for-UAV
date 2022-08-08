@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 29 10:15:47 2021
 
-@author: USER
+@author: Ivan
 """
 import cv2 as cv
 import numpy as np
